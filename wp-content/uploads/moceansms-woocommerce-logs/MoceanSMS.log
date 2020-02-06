@@ -1,0 +1,15 @@
+2018-12-20 07:20:49 Customer's billing phone number (+8801551813586) in country (BD) converted to 8801551813586
+2018-12-20 07:20:49 Sending SMS to 8801551813586, message: Meat &amp; Greet! : Thank you for purchasing. Your order (616) is now Processing.
+2018-12-20 07:20:50 SMS response from SMS gateway: {"messages":[{"status":0,"receiver":"8801551813586","msgid":"998015241220152053923736.0002"}]}
+2018-12-23 06:31:50 Customer's billing phone number (+8801677446677) in country (BD) converted to 8801677446677
+2018-12-23 06:31:50 Sending SMS to 8801677446677, message: Meat &amp; Greet! : Thank you for purchasing. Your order (659) is now Processing.
+2018-12-23 06:31:51 SMS response from SMS gateway: {"messages":[{"status":0,"receiver":"8801677446677","msgid":"998015241223143157406218.0002"}]}
+2018-12-23 06:48:00 Customer's billing phone number (+8801551813586) in country (BD) converted to 8801551813586
+2018-12-23 06:48:00 Sending SMS to 8801551813586, message: Meat &amp; Greet! : Thank you for purchasing. Your order (660) is now Processing.
+2018-12-23 06:48:01 SMS response from SMS gateway: {"messages":[{"status":0,"receiver":"8801551813586","msgid":"998015241223144806885273.0001"}]}
+2019-08-03 07:18:18 Customer's billing phone number (+8801677446677) in country (BD) converted to 8801677446677
+2019-08-03 07:18:18 Sending SMS to 8801677446677, message: Meat &amp; Greet! : Thank you for purchasing. Your order (674) is now Processing.
+2019-08-03 07:18:19 SMS response from SMS gateway: {"messages":[{"status":0,"receiver":"8801677446677","msgid":"998015240803151819613523.0003"}]}
+2019-08-19 06:16:39 Customer's billing phone number (+8801633373088) in country (BD) converted to 8801633373088
+2019-08-19 06:16:39 Sending SMS to 8801633373088, message: Meat &amp; Greet! : Thank you for purchasing. Your order (676) is now Processing.
+2019-08-19 06:16:43 SMS response from SMS gateway: {"messages":[{"status":0,"receiver":"8801633373088","msgid":"998015240819141643470098.0004"}]}
